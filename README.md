@@ -11,7 +11,15 @@
   <img src="https://img.shields.io/badge/Mysql-4479A1?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp 
 </p>
 
+
 <h3 align="center">🌱 주니어 개발자 🌱</h3>
+
+<a href="s">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=dkssud8150&exclude_repo=dkssud8150.github.io&layout=compact&theme=tokyonight" />
+</a>
+<a href="s">
+  <img src="https://github-readme-stats.vercel.app/api?username=dkssud8150&theme=tokyonight&show_icons=true" width="42%" />
+</a>
 
 <!--
 **ChaeHo95/ChaeHo95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
