@@ -18,6 +18,7 @@
 <a href="s">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChaeHo95&exclude_repo=ChaeHo95.github.io&layout=compact&theme=tokyonight" align="left"/>
 </a>
+<br/>
 <a href="s">
   <img src="https://github-readme-stats.vercel.app/api?username=ChaeHo95&theme=tokyonight&show_icons=true" align="left"/>
 </a>
