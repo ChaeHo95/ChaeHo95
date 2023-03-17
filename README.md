@@ -1,4 +1,5 @@
-![transparent](https://capsule-render.vercel.app/api?type=transparent&fontColor=703ee5&text=Transparent&height=150&fontSize=60&desc=Only%20Use%20Text&descAlignY=75&descAlign=60)
+![footer](https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=footer&text=Now%20Use%20me!&fontSize=90)
+
 
 <!--
 **ChaeHo95/ChaeHo95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
