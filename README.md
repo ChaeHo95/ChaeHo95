@@ -1,4 +1,5 @@
-![footer](https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=footer&text=CHOE%20CHAE%20HO&fontSize=90)
+![slice](https://capsule-render.vercel.app/api?type=slice&color=auto&height=200&text=SLICE&fontAlign=70&rotate=13&fontAlignY=25&desc=desc%20function%20is%20also%20rotated.&descAlign=70.&descAlignY=44)
+
 <h3 align="center">📚 Tech Stack 📚</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp
