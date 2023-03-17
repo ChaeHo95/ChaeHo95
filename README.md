@@ -1,4 +1,4 @@
-![slice](https://capsule-render.vercel.app/api?type=slice&color=black&height=100&text=ChaeHo95&fontAlign=70&rotate=6&fontAlignY=25&descAlign=70.&descAlignY=44&fontSize=60&fontColor=FFFFFF)
+![slice](https://capsule-render.vercel.app/api?type=slice&color=FFFFFF&height=100&text=ChaeHo95&fontAlign=70&rotate=6&fontAlignY=25&descAlign=70.&descAlignY=44&fontSize=60&fontColor=000000)
 
 <h3 align="center">📚 Tech Stack 📚</h3>
 <p align="center">
