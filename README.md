@@ -15,10 +15,10 @@
 <h3 align="center">🌱 주니어 개발자 🌱</h3>
 
 <a href="s">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChaeHo95&exclude_repo=ChaeHo95.github.io&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/username=ChaeHo95&exclude_repo=ChaeHo95.github.io&layout=compact&theme=tokyonight" align="center"/>
 </a>
 <a href="s">
-  <img src="https://github-readme-stats.vercel.app/api?username=ChaeHo95&theme=tokyonight&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ChaeHo95&theme=tokyonight&show_icons=true" align="center"/>
 </a>
 
 <!--
