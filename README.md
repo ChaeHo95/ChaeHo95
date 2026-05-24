@@ -1,9 +1,6 @@
 ![slice](https://capsule-render.vercel.app/api?type=slice&color=FFFFFF&height=100&text=ChaeHo95&fontAlign=70&rotate=6&fontAlignY=25&descAlign=70.&descAlignY=44&fontSize=60&fontColor=000000)
 
 
-<h3 align="center">🌱 주니어 개발자 🌱</h3>
-
-
 <!--
 **ChaeHo95/ChaeHo95** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
